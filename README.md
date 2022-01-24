@@ -1,8 +1,5 @@
 # Operating Systems and Network Assignment 1
 
-**Roll no: ** 2019114006  
-**Name: **Suyash Vardhan Mathur
-
 ## Assumptions
 ### Question 1
 * The process of closing files is considered non-fatal, and so the program is continued even if any of the `close(fd)` encounter error.
