@@ -1,4 +1,4 @@
-# Operating Systems and Network Assignment 1
+# Syscalls
 
 ## Assumptions
 ### Question 1
